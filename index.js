@@ -22,7 +22,7 @@ let stats = [];
 // only check TXs after Pulse IDO announcement: https://twitter.com/pulsemarkets/status/1433542278845394974
 // block 13148157 is last before timestamp: 1630610887
 const startBlock = 13148157;
-// only check TXs after Pulse gas refund announcement: https://twitter.com/pulsemarkets/status/1446206119907676161
+// only check TXs before Pulse gas refund announcement: https://twitter.com/pulsemarkets/status/1446206119907676161
 // block 13373859 is last after timestamp: 1633637340
 const endBlock = 99999999 //13373859;
 // only check transactions to addresses relevant to pulse IDO

@@ -1,0 +1,17 @@
+{
+    "name": "pulse-gas-distribution",
+    "version": "1.0.0",
+    "description": "get Eth spent on gas to participate in Pulse token offering",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "main": "index.js",
+    "author": "chluff",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.24.0",
+      "fs": "^0.0.1-security"
+    }
+  }
+  

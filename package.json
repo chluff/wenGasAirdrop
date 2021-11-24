@@ -1,5 +1,5 @@
 {
-    "name": "pulse-gas-distribution",
+    "name": "wen-gas-airdrop",
     "version": "1.0.0",
     "description": "get Eth spent on gas to participate in Pulse token offering",
     "scripts": {
